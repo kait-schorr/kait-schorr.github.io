@@ -25,5 +25,8 @@ collections:
   poetry:
     output: true
     permalink: /poetry/:path/
+  project Euler:
+    output: true
+    permalink: /projecteuler/:path/
 
 
