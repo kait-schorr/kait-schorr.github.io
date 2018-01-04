@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a post with code
-date: {}
+date: {2018-01-01 01:01:03}
 description: an example of a blog post with some code
 published: false
 ---
