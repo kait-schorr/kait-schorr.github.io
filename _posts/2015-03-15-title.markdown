@@ -1,7 +1,7 @@
 ---
 layout: post
 title: a post with formatting and links
-date: {}
+date: {2018-01-01 01:01:01}
 description: 'march & april, looking forward to summer'
 published: true
 ---
